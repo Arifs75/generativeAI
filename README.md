@@ -10,5 +10,4 @@
  <h4>DataSet</h4>
 https://github.com/y-takefuji/generativeAI/blob/main/SIPRI-Milex-data-1949-2022.csv
 
-<h4>SourceCode</h4>
-https://github.com/Arifs75/generativeAI/blob/main/Show%20a%20full%20code%20in%20Python%20to%20draw%20a%20graph%20of%204%20country%20lines%20from%202000%20to%202022%20with%20SIPRI-Milex-data-1949-2022.csv.py
+[<h4>SourceCode</h4>](https://github.com/Arifs75/generativeAI/blob/main/Show%20a%20full%20code%20in%20Python%20to%20draw%20a%20graph%20of%204%20country%20lines%20from%202000%20to%202022%20with%20SIPRI-Milex-data-1949-2022.csv.py)
